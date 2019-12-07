@@ -1,0 +1,1 @@
+Voici les fichiers nécessaires au bon fonctionnement du site web M2L, n'oubliez pas d'importer la base de données "m2l.sql".
